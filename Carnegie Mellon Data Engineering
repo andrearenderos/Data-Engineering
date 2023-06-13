@@ -1,0 +1,35 @@
+Principles of Data Engineering tools?
+Highly Extensible (programmable) systems
+Easily configurable - just sending a config file. 
+pipilining systems 
+Specification of dependencies
+consistent grammar (Self documenting)
+parallel + distributed processing
+
+
+We need to travel back in time to the present to refresh on skills specially for data engineering 
+We use a language called bash
+
+Unix:
+Navigation
+Manipulating files/directories
+Inspecting contents 
+>ls
+>ls -a
+>ls -l
+>ls -h
+>ls -ahl for all of the above
+Home directory: > cd ~
+previous directory > cd -
+Parent Directory >
+to move it > mv .bash~/.bashrc
+make a nested subdir ./data/raw   >mkdir -p data/raw
+>wc -1 .bashrc       /thats just for the line count.
+Get the word count
+for big data: > tail schedule.cvs
+
+
+Becoming a happy and productive engineer 
+For graphics and animations use GUI
+for a  lot of txt driven processing> file navigation, manipulation, searching USE: Command line.
+some useful bash commands:  history: 
